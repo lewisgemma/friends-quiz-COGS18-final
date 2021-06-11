@@ -18,9 +18,5 @@ My name is Gemma Lewis and I am a student at UCSD, studying psychology.
   
   
 <div align="center";>Author  
-  <div align="center";>Mike Flanagan  
-    <div align="center";>  
-  
-[GitHub](https://github.com/lewisgemma/) | [LinkedIn](https://www.linkedin.com/in/gemma-lewis-3757a71a1/)
-  
-
+  <div align="center";>Gemma Lewis  
+    <div align="center";><a href="https://github.com/lewisgemma/">GitHub</a> | <a href="https://www.linkedin.com/in/gemma-lewis-3757a71a1/">LinkedIn</a>
