@@ -17,7 +17,7 @@ My name is Gemma Lewis and I am a student at UCSD, studying psychology.
   
   
   
-<div align="center";>Author  
-  <div align="center";>Gemma Lewis  
+Author  
+**Gemma Lewis**
   
 [GitHub](https://github.com/lewisgemma/) | [LinkedIn](https://www.linkedin.com/in/gemma-lewis-3757a71a1/)
