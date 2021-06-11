@@ -1,4 +1,6 @@
-# friends-quiz-COGS18-final
+# Friends Quiz  
+### COGS18 Final Project  
+  
 A Friends quiz for the masses ;)
 
 In this project, you may take a quiz to test your knowledge of the television show Friends. Once completed, your score will be calculated. And for an extra bonus, you can generate a random song that Phoebe has performed.
